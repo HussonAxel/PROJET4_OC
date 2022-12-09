@@ -750,7 +750,9 @@ h4 {
 .avatar {
   box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
-
+.hero-bloc-color {
+  color: black !important;
+}
 .black-background {
   padding: 40px 40px 40px 40px;
   background-color: white;
